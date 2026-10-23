@@ -5,4 +5,5 @@
     <string name="namaLengkap">NAMA LENGKAP</string>
     <string name="jenisKelamin">JENIS KELAMIN</string>
     <string name="alamat">ALAMAT</string>
+    <string name="tampil">Tampil</string>
 </resources>
